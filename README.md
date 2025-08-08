@@ -1,4 +1,4 @@
-![psudoFont Liga Mono](./img/psudoFONT_Liga_Mono.png)
+![psudoFont Liga Mono](./img/psudoFont_Liga_Mono.png)
 
 A pseudo Font Family born from a wish and a what if...
 
@@ -23,14 +23,14 @@ But then, it clicked! What if I fuse both fonts together?
 
 I know typography purists might be horrified by this aberration and they might point out all the reasons why this shouldn't be done, but... To be fair, like I said, the `italic` version of `IBM Plex Mono` is quite different from its `regular` version, so I thought that it could be part of a different font altogether.
 
-So why not? Don't they look like they belong?
+So why not?
 
 ![Hourglass Example](./img/example_cerberus.png)
 <small>(Nebula Oni Theme: Cerberus)</small>
 
 ## License
 
-This project is licensed under the SIL Open Font License, Version 1.1. See the [OFL.txt](./LICENSE) file for details.
+This project is licensed under the SIL Open Font License, Version 1.1. See the [LICENSE](./LICENSE) file for details.
 
 ## Credits
 
