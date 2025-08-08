@@ -21,7 +21,7 @@ I tried to search for a configuration or maybe an extension that would allow me 
 
 But then, it clicked! What if I fuse both fonts together?
 
-I know typography purists might be horrified by this aberration and they might point out all the reasons why this shouldn't be done, but... To be fair, like I said, the `italic` version of `IBM Plex Mono` is quite different from its `regular` version, so I thought that this `italic` version could be part of a different font altogether.
+I know typography purists might be horrified by this aberration and they might point out all the reasons why this shouldn't be done, but... To be fair, like I said, the `italic` version of `IBM Plex Mono` is quite different from its `regular` version, so I thought that it could be part of a different font altogether.
 
 So why not? Don't they look like they belong?
 
@@ -38,7 +38,7 @@ The version that I based on for Meslo is called `Liga Meslo LG M DZ`. It's a pat
 
 ![Terminal Example](./img/example_terminal.png)
 
-The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which on the other hand is based on the open-source fonts `Bitstream Vera` and `DejaVu`. While `Lilex` is an extended font on top of `IBM Plex Mono`.
+The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which on the other hand is based on the open-source font `Bitstream Vera` and and the public domain `DejaVu`. While `Lilex` is an extended font on top of `IBM Plex Mono`.
 
 The work I've done is minimal compared to the original authors that created the fonts, so all the credits to them, I just had an itch...
 
