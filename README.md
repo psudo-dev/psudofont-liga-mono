@@ -7,22 +7,26 @@ I wanted to use Menlo/Meslo Regular but I also wanted IBM Plex Mono/Lilex Italic
 Like so many other things, it started with an itch, and thus, this Frankenstein Font was born. It's aliiiiveeee!
 
 ![Hourglass Example](./img/example_hourglass.png)
-<small style="text-align: right;">(Nebula Oni Theme: Hourglass)</small>
+<small>(Nebula Oni Theme: Hourglass)</small>
 
 ## Motivation
 
-I've tried several different fonts over the years but I kept using `Meslo` as my go-to font. I came across `IBM Plex Mono` and I also liked its height to base ratio, but it felt too square for me. On the other hand, its `italic` style was quite different from its `regular` style, but it was quite elegant.
+I've tried several different fonts over the years but I kept using [Meslo](https://github.com/andreberg/Meslo-Font) as my go-to font. Ideally, I would make it a bit thinner, but just a bit.
 
-So I tried for a bit to use [Lilex](https://github.com/mishamyrt/Lilex), but I didn't quite like it as much as I liked [Meslo](https://github.com/andreberg/Meslo-Font), but I really liked when the `italic` parts appeared in the code.
+I came across `IBM Plex Mono` - which is a bit thinner - and I also liked its x-height to base ratio, but it wasn't quite it. On the other hand, its `italic` was quite different from its `regular`, it looked quite elegant.
+
+So I tried for a bit to use [Lilex](https://github.com/mishamyrt/Lilex) - it's based on `IBM Plex Mono` but with ligatures -, but I didn't quite like it as much as I liked `Meslo`, but I really liked when the `italic` parts appeared in the code.
 
 I tried to search for a configuration or maybe an extension that would allow me to use both fonts together, using the `regular` style of Meslo and the `italic` style of `Lilex`, but I couldn't find anything.
 
-But then, it clicked! What if I fuse both fonts together? I know typography purists might be horrified by this aberration and they might point out all the reasons why this shouldn't be done, but... To be fair, like I said, the `italic` version of `IBM Plex Mono` is quite different from its `regular` version, so I thought that this `italic` version could be part of a different font altogether.
+But then, it clicked! What if I fuse both fonts together?
+
+I know typography purists might be horrified by this aberration and they might point out all the reasons why this shouldn't be done, but... To be fair, like I said, the `italic` version of `IBM Plex Mono` is quite different from its `regular` version, so I thought that this `italic` version could be part of a different font altogether.
 
 So why not? Don't they look like they belong?
 
 ![Hourglass Example](./img/example_cerberus.png)
-<small style="text-align: right;">(Nebula Oni Theme: Cerberus)</small>
+<small>(Nebula Oni Theme: Cerberus)</small>
 
 ## License
 
