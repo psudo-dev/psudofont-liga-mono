@@ -2,7 +2,7 @@
 
 A pseudo Font Family born from a wish and a what if...
 
-I wanted to use Menlo/Meslo Regular but I also wanted IBM Plex Mono/Lilex Italic... So what if I mixed and matched these two together?
+I wanted to use `Menlo/Meslo Regular` but I also wanted `IBM Plex Mono/Lilex Italic`... So what if I mixed and matched these two together?
 
 Like so many other things, it started with an itch, and thus, this Frankenstein Font was born. It's aliiiiveeee!
 
