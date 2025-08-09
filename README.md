@@ -66,10 +66,13 @@ The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which
 
 The work I've done is minimal compared to the original authors that created the fonts, so all the credits to them, I just had an itch and here we are...
 
-- Author: [@psudo-dev](https://github.com/psudo-dev/)
 - [Meslo LG](https://github.com/andreberg/Meslo-Font)
 - Menlo
 - Vera Sans Mono
 - DejaVu Mono
 - [Lilex](https://github.com/mishamyrt/Lilex)
 - [IBM Plex Mono](https://github.com/IBM/plex).
+
+### Author
+
+- [@psudo-dev](https://github.com/psudo-dev/)
