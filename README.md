@@ -62,7 +62,7 @@ The version that I based on for Meslo is called `Liga Meslo LG M DZ`. It's a pat
 
 ![Terminal Example](./img/example_terminal.png)
 
-The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which on the other hand is based on the open-source font `Bitstream Vera` and and the public domain `DejaVu`. While `Lilex` is an extended font on top of `IBM Plex Mono`.
+The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which on the other hand is based on the open-source font `Bitstream Vera` and the public domain `DejaVu`. While `Lilex` is an extended font on top of `IBM Plex Mono`.
 
 The work I've done is minimal compared to the original authors that created the fonts, so all the credits to them, I just had an itch and here we are...
 
