@@ -39,7 +39,7 @@ I've tried several different fonts over the years but I kept using [Meslo](https
 
 I came across `IBM Plex Mono`, I liked its x-height to base ratio, but it wasn't quite it for me. On the other hand, its `italic` was quite different from its `regular` style, it looked quite elegant, it made me interested in testing it.
 
-So I tried suing [Lilex](https://github.com/mishamyrt/Lilex) for a bit - which is based on `IBM Plex Mono` but with ligatures, therefore the name, Ligature Plex, Lilex, or so I think. I didn't quite like it as much as I like `Meslo` - despite it being a bit thinner - but I really liked when the `italic` parts appeared in the code.
+So I tried using [Lilex](https://github.com/mishamyrt/Lilex) for a bit - which is based on `IBM Plex Mono` but with ligatures, therefore the name, Ligature Plex, Lilex, or so I think. I didn't quite like it as much as I like `Meslo` - despite it being a bit thinner - but I really liked when the `italic` parts appeared in the code.
 
 I tried to search for a configuration or maybe an extension that would allow me to use both fonts together, using the `regular` style of Meslo and the `italic` style of `Lilex`, but I couldn't find anything.
 
