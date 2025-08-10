@@ -60,7 +60,7 @@ This project is licensed under the SIL Open Font License, Version 1.1. See the [
 
 The version that I based on for Meslo is called `Liga Meslo LG M DZ`. It's a patched version of a patched version. It was patched to include `Powerline` glyphs, and then it was patched again to include ligatures. And unfortunately, I couldn't track down who did what for each patch, only the original author.
 
-![Terminal Example](./img/example_terminal.png)
+![Terminal Example](./img/terminal_sample.png)
 
 The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which on the other hand is based on the open-source font `Bitstream Vera` and the public domain `DejaVu`. While `Lilex` is an extended font on top of `IBM Plex Mono`.
 
