@@ -6,7 +6,7 @@ I wanted to use `Menlo/Meslo Regular` but I also wanted `IBM Plex Mono/Lilex Ita
 
 Like so many other things, it started with an itch, and thus, this Frankenstein Font was born. It's aliiiiveeee!
 
-![Hourglass Example](./img/example_hourglass.png)
+![Hourglass Example](./img/typescript_sample.png)
 <small>(Nebula Oni Theme: Hourglass)</small>
 
 ## psudoFont Liga Mono
@@ -49,7 +49,7 @@ I know typography purists might be horrified by this aberration and they might p
 
 So why not?
 
-![Hourglass Example](./img/example_cerberus.png)
+![Hourglass Example](./img/python_sample.png)
 <small>(Nebula Oni Theme: Cerberus)</small>
 
 ## License
