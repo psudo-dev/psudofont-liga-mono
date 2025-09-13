@@ -1,8 +1,18 @@
 ![psudoFont Liga Mono](./img/psudoFont_Liga_Mono.png)
 
-A pseudo Font Family born from a wish and a what if...
+## V.2.0.0
+
+I was naive... I thought I wouldn't actually edit and design glyphs myself, but I was wrong - I underestimated my itch... So here we are, a new version with a lot redesigned characters!
+
+I previously complained that I liked `Menlo/Meslo` but I wanted to make it a bit thinner - like `IBM Plex Mono/Lilex`. So I went ahead and redesigned a lot of glyphs to make it thinner, while still keeping `Menlo/Meslo`'s overall style.
+
+So, now, the `psudoFont Liga Mono Family` is much more cohesive and consistent and now I can say I actually designed it too - not just a fused together Font Family.
+
+## V.1.0.0
 
 I wanted to use `Menlo/Meslo Regular` but I also wanted `IBM Plex Mono/Lilex Italic`... So what if I mixed and matched these two together?
+
+And that's what I did.
 
 Like so many other things, it started with an itch, and thus, this Frankenstein Font was born. It's aliiiiveeee!
 
@@ -13,11 +23,11 @@ Like so many other things, it started with an itch, and thus, this Frankenstein 
 
 This font has two different weights: Regular/Italic (`400`) and Bold/Bold Italic (`700`).
 
-The styles of `Regular`, `Bold` and `Bold Italic` are based on `Liga Meslo LG M DZ` and it offers both `Powerline` glyphs and also `ligatures`. The `Italic` style is based on `Lilex` - and also support `Powerline` and ligatures.
+`Regular` and `Italic` have a lot of redesigned glyphs to make them match better together. `Bold` and `Bold Italic` are just a bold version of `Menlo/Meslo` because there was no point in making them thinner and their design already matched the other two - plus, in programming, bold text is not that common.
 
 ### Installation
 
-1. [Download](https://github.com/psudo-dev/psudofont-liga-mono/releases/download/v.1.0.0/psudoFont_Liga_Mono.zip) and Unzip the file.
+1. [Download](https://github.com/psudo-dev/psudofont-liga-mono/releases/download/v.2.0.0/psudoFont_Liga_Mono.zip) and Unzip the file.
 2. Install the font:
    - Windows: Select all font files in the variable folder, right-click and click Install from the menu.
    - Mac: Select all font files in the variable folder and double-click them and Install.
@@ -35,19 +45,25 @@ The styles of `Regular`, `Bold` and `Bold Italic` are based on `Liga Meslo LG M 
 
 ## Motivation
 
-I've tried several different fonts over the years but I kept using [Meslo](https://github.com/andreberg/Meslo-Font) as my go-to font. Ideally, I would make it a bit thinner - but I don't think I'll be editing hundreds of glyphs anytime soon.
+I've tried several different fonts over the years but I kept using [Meslo](https://github.com/andreberg/Meslo-Font) as my go-to font. For the past few years I've been using the version with ligatures, `Liga Meslo LG M DZ` - which also includes `Powerline` for the Terminal.
 
-I came across `IBM Plex Mono`, I liked its x-height to base ratio, but it wasn't quite it for me. On the other hand, its `italic` was quite different from its `regular` style, it looked quite elegant, it made me interested in testing it.
+I came across `IBM Plex Mono`, I liked its x-height to base ratio, but it wasn't quite it for me. On the other hand, its `italic` was quite different from its `regular` style, it looked elegant, it made me interested in testing it.
 
-So I tried using [Lilex](https://github.com/mishamyrt/Lilex) for a bit - which is based on `IBM Plex Mono` but with ligatures, therefore the name, Ligature Plex, Lilex, or so I think. I didn't quite like it as much as I like `Meslo` - despite it being a bit thinner - but I really liked when the `italic` parts appeared in the code.
+So I tried using [Lilex](https://github.com/mishamyrt/Lilex) for a bit - which is based on `IBM Plex Mono` but with ligatures - therefore the name, Ligature Plex, Lilex, or so I think.
 
-I tried to search for a configuration or maybe an extension that would allow me to use both fonts together, using the `regular` style of Meslo and the `italic` style of `Lilex`, but I couldn't find anything.
+I liked `Menlo/Meslo`'s style, but I wanted it to be a bit thinner - like `IBM Plex Mono/Lilex`. But I also liked `IBM Plex Mono/Lilex`'s `italic` style - except for just a few characters. So I tried to redesign and edit it in a way that could be seen a seamless blend of what I really wanted, therefore this can be called a new font family.
 
-But then, it clicked! What if I fuse both fonts together myself?
+## Design Choices
 
-I know typography purists might be horrified by this aberration and they might point out all the reasons why this shouldn't be done, but... To be fair, like I said, the `italic` version of `IBM Plex Mono` is quite different from its `regular` version, so I thought that it could go well with a different font.
+In the version `V.1.0.0` I just fused together both fonts, using `Meslo Regular` and `Lilex Italic` - while also using `Bold` and `Bold Italic` from `Meslo`. And I thought I would stop there...
 
-So why not?
+But now, in version `V.2.0.0`, I redesigned a lot of glyphs, I used `Lilex` as a base, since I liked the fact that it was thinner, but using `Meslo`'s style as reference.
+
+Then I redesigned some `italic` glyphs to make them match better with the `regular` style. Every character that I didn't like from `Lilex`, I adjusted it - even some details that you can only see in the vector files.
+
+I kept some of the `Lilex` stylistic choices, like the `finial` angle, the beginning of the `bowl`, the thickness of the `stem` but also some measurements and proportions in a way that it would still match the other glyphs that I didn't change. I also adjusted some right-angled parts into rounded curves. Everything that I felt like it would make the font family more cohesive and consistent throughout all the different weights and styles.
+
+This is still within the initial idea of mixing and matching two different fonts, taking the parts that I like from each of them, but this time, instead of just putting them together as-is, I went a few steps further, making this font family something different from the fonts that inspired it, but still keeping the essence and style of what I liked from each of them.
 
 ![Hourglass Example](./img/python_sample.png)
 <small>(Nebula Oni Theme: Cerberus)</small>
@@ -63,8 +79,6 @@ The version that I based on for Meslo is called `Liga Meslo LG M DZ`. It's a pat
 ![Terminal Example](./img/terminal_sample.png)
 
 The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which on the other hand is based on the open-source font `Bitstream Vera` and the public domain `DejaVu`. While `Lilex` is an extended font on top of `IBM Plex Mono`.
-
-The work I've done is minimal compared to the original authors that created the fonts, so all the credits to them, I just had an itch and here we are...
 
 - [Meslo LG](https://github.com/andreberg/Meslo-Font)
 - Menlo
