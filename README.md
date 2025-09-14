@@ -1,14 +1,16 @@
 ![psudoFont Liga Mono](./img/psudoFont_Liga_Mono.png)
 
-## V.2.0.0
+## Version History
+
+### V.2.0.0 (September, 13th, 2025)
 
 I was naive... I thought I wouldn't actually edit and design glyphs myself, but I was wrong - I underestimated my itch... So here we are, a new version with a lot redesigned characters!
 
 I previously complained that I liked `Menlo/Meslo` but I wanted to make it a bit thinner - like `IBM Plex Mono/Lilex`. So I went ahead and redesigned a lot of glyphs to make it thinner, while still keeping `Menlo/Meslo`'s overall style.
 
-So, now, the `psudoFont Liga Mono Family` is much more cohesive and consistent and now I can say I actually designed it too - not just a fused together Font Family.
+So the `psudoFont Liga Mono Family` is much more cohesive and consistent and now I can say it's actually a Font Family - instead of a Frankenstein Font.
 
-## V.1.0.0
+### V.1.0.0 (August, 8th, 2025)
 
 I wanted to use `Menlo/Meslo Regular` but I also wanted `IBM Plex Mono/Lilex Italic`... So what if I mixed and matched these two together?
 
@@ -29,8 +31,8 @@ This font has two different weights: Regular/Italic (`400`) and Bold/Bold Italic
 
 1. [Download](https://github.com/psudo-dev/psudofont-liga-mono/releases/download/v.2.0.0/psudoFont_Liga_Mono.zip) and Unzip the file.
 2. Install the font:
-   - Windows: Select all font files in the variable folder, right-click and click Install from the menu.
-   - Mac: Select all font files in the variable folder and double-click them and Install.
+    - Windows: Select all font files in the variable folder, right-click and click Install from the menu.
+    - Mac: Select all font files in the variable folder and double-click them and Install.
 
 ### Visual Studio Code
 
@@ -39,9 +41,9 @@ This font has two different weights: Regular/Italic (`400`) and Bold/Bold Italic
 3. Add `psudoFont Liga Mono` to the list of font families.
 4. To enable `ligatures`, search for `Font Ligatures` and edit the `settings.json` file by adding the following line:
 
-   ```json
-   "editor.fontLigatures": true
-   ```
+    ```json
+    "editor.fontLigatures": true
+    ```
 
 ## Motivation
 
@@ -80,13 +82,17 @@ The version that I based on for Meslo is called `Liga Meslo LG M DZ`. It's a pat
 
 The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which on the other hand is based on the open-source font `Bitstream Vera` and the public domain `DejaVu`. While `Lilex` is an extended font on top of `IBM Plex Mono`.
 
-- [Meslo LG](https://github.com/andreberg/Meslo-Font)
-- Menlo
-- Vera Sans Mono
-- DejaVu Mono
-- [Lilex](https://github.com/mishamyrt/Lilex)
-- [IBM Plex Mono](https://github.com/IBM/plex).
+-   [Meslo LG](https://github.com/andreberg/Meslo-Font)
+-   [Lilex](https://github.com/mishamyrt/Lilex)
+-   [IBM Plex Mono](https://github.com/IBM/plex).
+-   Menlo
+-   Vera Sans Mono
+-   DejaVu Mono
 
 ### Author
 
-- [@psudo-dev](https://github.com/psudo-dev/)
+-   [@psudo-dev](https://github.com/psudo-dev/)
+
+<={}[]==!==&&===new=>()Gorgonzola Métrica Ijiya
+
+<!-- newgate viral dexter -->
