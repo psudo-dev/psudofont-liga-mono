@@ -6,7 +6,7 @@
 
 This font has two different weights: Regular/Italic (`400`) and Bold/Bold Italic (`700`).
 
-A lot of glyphs were redesigned, some resemble `Menlo/Meslo`, some `IBM Plex Mono/Lilex`, and some others are unique to `psudoFont Liga Mono`. The changes and adjustments vary from small details to entire characters but always maintaining core identity within the font family.
+This is a new font, a lot of glyphs were redesigned, some resemble `Menlo/Meslo`, some `IBM Plex Mono/Lilex`, and some others are unique to `psudoFont Liga Mono`. The changes and adjustments vary from small details to entire characters but always keeping the core identity within the font family.
 
 ### Installation
 
@@ -34,7 +34,7 @@ I was naive... I thought I wouldn't actually edit and design glyphs myself becau
 
 I previously complained that I liked `Menlo/Meslo` but I wanted to make it a bit thinner and that I liked `IBM Plex Mono/Lilex`'s italic but not all of it. So I went ahead and changed all of that.
 
-This version of `psudoFont Liga Mono` is much more cohesive and consistent and now I can say it's actually a Font Family instead of a *Frankenstein* - fused together with multiple fonts...
+This version of `psudoFont Liga Mono` is much more cohesive and consistent and now I can say it's actually a Font Family instead of a _Frankenstein_ - fused together with multiple fonts...
 
 ### V.1.0.0 (August, 8th, 2025)
 
@@ -42,11 +42,11 @@ I wanted to use `Menlo/Meslo Regular` but I also wanted `IBM Plex Mono/Lilex Ita
 
 And that's what I did.
 
-Like so many other things, it started with an itch, and thus, this *Frankenstein Font* was born. It's aliiiiveeee!
+Like so many other things, it started with an itch, and thus, this _Frankenstein Font_ was born. It's aliiiiveeee!
 
 ## Motivation
 
-**TL;DR:** It always starts with an itch, usually when something bothers me, the itch grows through time and *sometimes* I end up doing it myself.
+**TL;DR:** It always starts with an itch, usually when something bothers me, the itch grows through time and _sometimes_ I end up doing it myself.
 
 That's how I ended up here, creating my own programming font - same for my VSCode's color theme: [Nebula Oni Theme](https://github.com/psudo-dev/nebula-oni-theme/), the theme used to render the examples [below](#examples).
 
@@ -82,23 +82,23 @@ Considering that when this all started I didn't know how to edit a single glyph,
 
 Click on the images to see a larger version with more details, the low-res image rendering is pretty bad for texts with dark backgrounds.
 
-- TypeScript
+-   TypeScript
 
 ![Hourglass Example](./img/typescript_sample.png)
 <small>(Nebula Oni Theme: Hourglass/Grey)</small>
 
-- Python
+-   Python
 
 ![Hourglass Example](./img/python_sample.png)
 <small>(Nebula Oni Theme: Cerberus/Glacial Blue)</small>
 
-- C
-![Hourglass Example](./img/c_sample.png)
-<small>(Nebula Oni Theme: Spirograph/Purple)</small>
+-   C
+    ![Hourglass Example](./img/c_sample.png)
+    <small>(Nebula Oni Theme: Spirograph/Purple)</small>
 
-- Terminal
-![Terminal Example](./img/terminal_sample.png)
-<small>(Nebula Oni Theme)</small>
+-   Terminal
+    ![Terminal Example](./img/terminal_sample.png)
+    <small>(Nebula Oni Theme)</small>
 
 ## License
 
