@@ -10,6 +10,7 @@ This is a new font, a lot of glyphs were redesigned, some resemble `Menlo/Meslo`
 
 ### Installation
 
+0. Uninstall the previous version if you have it installed.
 1. [Download](https://github.com/psudo-dev/psudofont-liga-mono/releases/download/v.2.0.0/psudoFont_Liga_Mono.zip) and Unzip the file.
 2. Install the font:
     - Windows: Select all font files in the folder, right-click and click Install from the menu.
