@@ -28,7 +28,7 @@ A lot of glyphs were redesigned, some resemble `Menlo/Meslo`, some `IBM Plex Mon
 
 ## Version History
 
-### V.2.0.0 (September, 13th, 2025)
+### V.2.0.0 (October, 1st, 2025)
 
 I was naive... I thought I wouldn't actually edit and design glyphs myself because it would be too much work, but I was wrong - I underestimated my itch... It last a month or so and here we are, a completely new version!
 
