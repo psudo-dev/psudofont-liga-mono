@@ -8,6 +8,8 @@ This font has two different weights: Regular/Italic (`400`) and Bold/Bold Italic
 
 This is a new font, a lot of glyphs were redesigned, some resemble `Menlo/Meslo`, some `IBM Plex Mono/Lilex`, and some others are unique to `psudoFont Liga Mono`. The changes and adjustments vary from small details to entire characters but always keeping the core identity within the font family.
 
+![psudoFont Liga Mono example](img/psudoFont_example_01.png)
+
 ### Installation
 
 0. Uninstall the previous version if you have it installed.
@@ -72,6 +74,8 @@ I used `Lilex` as a base because it would be easier than starting from scratch o
 For `regular` I kept `Meslo` as a reference but there were also some symbols, marks and even small details that I preferred from `Lilex` - like the ending's curves and angles - so I used those as well.
 
 `Lilex`'s `italic` had a lot of sharp corners, so I redesigned them all to be more rounded and smooth. This small detail made me redesigned lots of glyphs. I also changed some characters like `w`, `v`, `r`, `{`, `}`, `@`, `5`, `6`, `9`, etc. Actually, I had to change the numbers in both `regular` and `italic`.
+
+![psudoFont Liga Mono example](img/psudoFont_example_02.png)
 
 Another thing that I didn't like about `Liga Meslo LG M DZ` were the ligatures combinations for `fi`, `ffi`, `fl`, `ffl`, etc. They get too close together, I don't like how it looks. So I'm not supporting these ligatures.
 
