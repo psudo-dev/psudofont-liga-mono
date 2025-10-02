@@ -120,7 +120,7 @@ This project is licensed under the SIL Open Font License, Version 1.1. See the [
 
 The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which on the other hand is based on the open-source font `Bitstream Vera` and the public domain `DejaVu`. `Lilex` is an extended font on top of `IBM Plex Mono`.
 
-### Author
+## Author
 
 -   [@psudo-dev](https://github.com/psudo-dev/)
 -   If you really liked it, would you consider [buying me a coffee](https://buymeacoffee.com/psudodev) to support my work? Thank you!
