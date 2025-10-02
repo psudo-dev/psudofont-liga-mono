@@ -123,3 +123,4 @@ The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which
 ### Author
 
 -   [@psudo-dev](https://github.com/psudo-dev/)
+-   If you really liked it, would you consider [buying me a coffee](https://buymeacoffee.com/psudodev) to support my work? Thank you!
