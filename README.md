@@ -31,6 +31,8 @@ The whole journey resembled a lot what I went through when I created my color th
     "editor.fontLigatures": true
     ```
 
+-   Works better with font size `16` or higher.
+
 ## Major Version History
 
 For a complete list of changes, see the release notes on [Releases](https://github.com/psudo-dev/psudofont-liga-mono/releases).
