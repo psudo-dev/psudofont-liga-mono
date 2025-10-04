@@ -8,14 +8,14 @@ This font has two different weights: Regular/Italic (`400`) and Bold/Bold Italic
 
 This is a new font family, a lot of glyphs were redesigned, some resemble `Menlo/Meslo`, some `IBM Plex Mono/Lilex`, and some others are unique to `psudoFont Liga Mono`. The changes and adjustments vary from small details to entire characters but always keeping the core identity within the font family.
 
-The whole journey resembled a lot what I went through when I created my color theme: [Nebula Oni Theme](https://github.com/psudo-dev/nebula-oni-theme/). It's the theme used to render the examples [below](#examples). But this project took a month instead of several months.
+The whole journey resembled a lot what I went through when I created my color theme [Nebula Oni Theme](https://github.com/psudo-dev/nebula-oni-theme/), the same theme used to render the examples [below](#examples) - but this project took a month instead of several months.
 
 ![psudoFont Liga Mono example](img/psudoFont_example_01.png)
 
 ### Installation
 
 0. Uninstall the previous version if you have it installed.
-1. [Download](https://github.com/psudo-dev/psudofont-liga-mono/releases/download/v.2.0.0/psudoFont_Liga_Mono.zip) and Unzip the file.
+1. [Download](https://github.com/psudo-dev/psudofont-liga-mono/releases/download/v.2.1.0/psudoFont_Liga_Mono.zip) and Unzip the file.
 2. Install the font:
     - Windows: Select all font files in the folder, right-click and click Install from the menu.
     - Mac: Select all font files in the folder and double-click them and Install.
@@ -31,7 +31,9 @@ The whole journey resembled a lot what I went through when I created my color th
     "editor.fontLigatures": true
     ```
 
-## Version History
+## Major Version History
+
+For a complete list of changes, see the release notes on [Releases](https://github.com/psudo-dev/psudofont-liga-mono/releases).
 
 ### V.2.0.0 (October, 1st, 2025)
 
