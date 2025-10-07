@@ -12,6 +12,8 @@ The whole journey resembled a lot what I went through when I created my color th
 
 ![psudoFont Liga Mono example](img/psudoFont_example_01.png)
 
+-   Works better with font size `16` or higher.
+
 ### Installation
 
 0. Uninstall the previous version if you have it installed.
@@ -30,8 +32,6 @@ The whole journey resembled a lot what I went through when I created my color th
     ```json
     "editor.fontLigatures": true
     ```
-
--   Works better with font size `16` or higher.
 
 ## Major Version History
 
