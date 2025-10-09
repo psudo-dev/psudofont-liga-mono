@@ -73,7 +73,7 @@ That, until I started thinking about making my own font design...
 
 I used `Lilex` as a base because it would be easier than starting from scratch or making all `Meslo` glyphs thinner, plus, I would have to adjust the x-height of all characters of either font.
 
-`Lilex` has 1000UPM, so I scaled up all glyphs to 2048UPM, which seems to be the standard for most new fonts
+`Lilex` has `1000UPM`, so I scaled up all glyphs to `2048UPM`, which seems to be the standard for most new fonts.
 
 For `regular` I kept `Meslo` as a reference but there were also some symbols, marks and even small details that I preferred from `Lilex` - like the ending's curves and angles - so I used those as well.
 
