@@ -12,7 +12,7 @@ The whole journey resembled a lot what I went through when I created my color th
 
 ![psudoFont Liga Mono example](img/psudoFont_example_01.png)
 
--   Works better with font size `16` or higher.
+- Works better with font size `16` or higher.
 
 ### Installation
 
@@ -33,29 +33,51 @@ The whole journey resembled a lot what I went through when I created my color th
     "editor.fontLigatures": true
     ```
 
+## Examples
+
+Click on the images to see a larger version with more details, the low-res image rendering is pretty bad for texts with dark backgrounds.
+
+- TypeScript
+
+![Hourglass Example](./img/typescript_sample.png)
+<small>(Nebula Oni Theme: Hourglass/Grey)</small>
+
+- Python
+
+![Hourglass Example](./img/python_sample.png)
+<small>(Nebula Oni Theme: Cerberus/Glacial Blue)</small>
+
+- C
+  ![Hourglass Example](./img/c_sample.png)
+  <small>(Nebula Oni Theme: Spirograph/Purple)</small>
+
+- Terminal
+  ![Terminal Example](./img/terminal_sample.png)
+  <small>(Nebula Oni Theme)</small>
+
 ## Major Version History
 
 For a complete list of changes, see the release notes on [Releases](https://github.com/psudo-dev/psudofont-liga-mono/releases).
 
+### V.1.0.0 (August, 8th, 2025)
+
+I wanted to use `Menlo/Meslo Regular` but I also wanted `IBM Plex Mono/Lilex Italic`... So what if I mixed and matched these two together into a single font?
+
+And that's what I did.
+
+Like so many other things, it started with a lingering and persistent "what if...", and that's how this _Frankenstein Font_ was born. It's aliiiiveeee!
+
 ### V.2.0.0 (October, 1st, 2025)
 
-I was naive... I thought I wouldn't actually edit and design glyphs myself because it would be too much work, but I was wrong - I underestimated my itch... It last a month or so and here we are, a completely new version!
+I was naive... I thought I wouldn't actually edit and design glyphs myself because it would be too much work, but I was wrong - I underestimated myself... It lasted a month or so and here we are, a completely new version!
 
 I previously complained that I liked `Menlo/Meslo` but I wanted to make it a bit thinner and that I liked `IBM Plex Mono/Lilex`'s italic but not all of it. So I went ahead and changed all of that.
 
 This version of `psudoFont Liga Mono` is much more cohesive and consistent and now I can say it's actually a Font Family instead of a _Frankenstein_ - fused together with multiple fonts...
 
-### V.1.0.0 (August, 8th, 2025)
-
-I wanted to use `Menlo/Meslo Regular` but I also wanted `IBM Plex Mono/Lilex Italic`... So what if I mixed and matched these two together?
-
-And that's what I did.
-
-Like so many other things, it started with an itch, and thus, this _Frankenstein Font_ was born. It's aliiiiveeee!
-
 ## Motivation
 
-**TL;DR:** It always starts with an itch, usually when something bothers me, the itch grows through time and _sometimes_ I end up doing it myself. That's how I ended up here, somehow creating my own programming font.
+**TL;DR:** It always starts with an itch, usually when something bothers me, the itch grows through time and _sometimes_ I end up following through. That's how I ended up here, somehow creating my own programming font.
 
 ---
 
@@ -87,45 +109,23 @@ Another thing that I didn't like about `Liga Meslo LG M DZ` were the ligatures c
 
 Considering that when this all started I didn't know how to edit a single glyph, all the hustle in between and 3 redesigns later, I would say I liked the final result. Although inspired by `Meslo` and `Lilex`, this turned out to be its own unique font family.
 
-## Examples
-
-Click on the images to see a larger version with more details, the low-res image rendering is pretty bad for texts with dark backgrounds.
-
--   TypeScript
-
-![Hourglass Example](./img/typescript_sample.png)
-<small>(Nebula Oni Theme: Hourglass/Grey)</small>
-
--   Python
-
-![Hourglass Example](./img/python_sample.png)
-<small>(Nebula Oni Theme: Cerberus/Glacial Blue)</small>
-
--   C
-    ![Hourglass Example](./img/c_sample.png)
-    <small>(Nebula Oni Theme: Spirograph/Purple)</small>
-
--   Terminal
-    ![Terminal Example](./img/terminal_sample.png)
-    <small>(Nebula Oni Theme)</small>
-
 ## License
 
 This project is licensed under the SIL Open Font License, Version 1.1. See the [LICENSE](./LICENSE) file for details.
 
 ## Credits
 
--   [Meslo LG](https://github.com/andreberg/Meslo-Font)
--   Menlo
--   Vera Sans Mono
--   DejaVu Mono
--   [Lilex](https://github.com/mishamyrt/Lilex)
--   [IBM Plex Mono](https://github.com/IBM/plex).
+- [Meslo LG](https://github.com/andreberg/Meslo-Font)
+- Menlo
+- Vera Sans Mono
+- DejaVu Mono
+- [Lilex](https://github.com/mishamyrt/Lilex)
+- [IBM Plex Mono](https://github.com/IBM/plex).
 
 The original `Meslo LG` is a customized version of Apple’s `Menlo` font, which on the other hand is based on the open-source font `Bitstream Vera` and the public domain `DejaVu`. `Lilex` is an extended font on top of `IBM Plex Mono`.
 
 ## Author
 
--   [@psudo-dev](https://github.com/psudo-dev/)
--   If you really liked it, give it a star!
--   Would you consider [buying me a coffee](https://buymeacoffee.com/psudodev) to support my work? Thank you!
+- [@psudo-dev](https://github.com/psudo-dev/)
+- If you really liked it, give it a star!
+- Would you consider [buying me a coffee](https://buymeacoffee.com/psudodev) to support my work? Thank you!
