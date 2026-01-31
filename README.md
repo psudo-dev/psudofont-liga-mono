@@ -8,7 +8,7 @@ This font has two different weights: Regular/Italic (`400`) and Bold/Bold Italic
 
 This is a new font family, a lot of glyphs were redesigned, some resemble `Menlo/Meslo`, some `IBM Plex Mono/Lilex`, and some others are unique to `psudoFont Liga Mono`. The changes and adjustments vary from small details to entire characters but always keeping the core identity within the font family.
 
-The whole journey resembled a lot what I went through when I created my color theme [Nebula Oni Theme](https://github.com/psudo-dev/nebula-oni-theme/) - the same theme used to render the examples [below](#examples).
+The whole journey resembled a lot what I went through when I created my color theme [Nebula Oni Theme](https://github.com/psudo-dev/nebula-oni-theme/) - the same theme used to render the examples [below](#examples). Like a small adventure, since I had no idea how to create a theme - or a font.
 
 ![psudoFont Liga Mono example](img/psudoFont_example_01.png)
 
