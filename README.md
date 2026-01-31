@@ -61,7 +61,7 @@ Click on the images to see a larger version with more details, the low-res image
 
 - C
   ![Hourglass Example](./img/c_sample.png)
-  <small>(Nebula Oni Theme: Spirograph/Deep Purple)</small>
+  <small>(Nebula Oni Theme: Spirograph/Purple)</small>
 
 - Terminal
   ![Terminal Example](./img/terminal_sample.png)
