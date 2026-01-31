@@ -8,7 +8,7 @@ This font has two different weights: Regular/Italic (`400`) and Bold/Bold Italic
 
 This is a new font family, a lot of glyphs were redesigned, some resemble `Menlo/Meslo`, some `IBM Plex Mono/Lilex`, and some others are unique to `psudoFont Liga Mono`. The changes and adjustments vary from small details to entire characters but always keeping the core identity within the font family.
 
-The whole journey resembled a lot what I went through when I created my color theme [Nebula Oni Theme](https://github.com/psudo-dev/nebula-oni-theme/), the same theme used to render the examples [below](#examples) - but this project took a month instead of several months.
+The whole journey resembled a lot what I went through when I created my color theme [Nebula Oni Theme](https://github.com/psudo-dev/nebula-oni-theme/) - the same theme used to render the examples [below](#examples).
 
 ![psudoFont Liga Mono example](img/psudoFont_example_01.png)
 
@@ -32,6 +32,18 @@ The whole journey resembled a lot what I went through when I created my color th
     ```json
     "editor.fontLigatures": true
     ```
+
+### Additional Font Features
+
+The base for the **Font Features** comes from `Lilex`, so all its [features](https://github.com/mishamyrt/Lilex?tab=readme-ov-file#features) are supported, plus some additional ones that I added.
+
+- Usage Example:
+
+```json
+    "editor.fontLigatures": "'ss01', 'cv11', 'cv20'"
+```
+
+![psudoFont Liga Mono - Font Features](./img/psudoFont_font_feature.png)
 
 ## Examples
 
@@ -69,11 +81,11 @@ Like so many other things, it started with a lingering and persistent "what if..
 
 ### V.2.0.0 (October, 1st, 2025)
 
-I was naive... I thought I wouldn't actually edit and design glyphs myself because it would be too much work, but I was wrong - I underestimated myself... It lasted a month or so and here we are, a completely new version!
+I was naive... I thought I wouldn't actually edit and design glyphs myself because it would be too much work - not to mention the fact that I didn't know how to do it - but I was wrong, I underestimated myself... and here we are, a completely new version!
 
 I previously complained that I liked `Menlo/Meslo` but I wanted to make it a bit thinner and that I liked `IBM Plex Mono/Lilex`'s italic but not all of it. So I went ahead and changed all of that.
 
-This version of `psudoFont Liga Mono` is much more cohesive and consistent and now I can say it's actually a Font Family instead of a _Frankenstein_ - fused together with multiple fonts...
+This version of `psudoFont Liga Mono` is much more cohesive and consistent and now I can say it's actually a Font Family.
 
 ## Motivation
 
@@ -99,7 +111,7 @@ I used `Lilex` as a base because it would be easier than starting from scratch o
 
 For `regular` I kept `Meslo` as a reference but there were also some symbols, marks and even small details that I preferred from `Lilex` - like the ending's curves and angles - so I used those as well.
 
-`Lilex`'s `italic` had a lot of sharp corners, so I redesigned them all to be more rounded and smooth. This small detail made me redesigned lots of glyphs. I also changed some characters like `w`, `v`, `r`, `{`, `}`, `@`, `5`, `6`, `9`, etc. Actually, I had to change the numbers in both `regular` and `italic`.
+`Lilex`'s `italic` had a lot of sharp corners, so I redesigned them all to be more rounded and smooth. This small detail made me redesigned lots of glyphs. I also changed some characters like `k`, `w`, `v`, `r`, `x`, `{`, `}`, `@`, `5`, `6`, `9`, etc. Actually, I had to change the numbers in both `regular` and `italic`.
 
 ![psudoFont Liga Mono example](img/psudoFont_example_02.png)
 
