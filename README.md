@@ -17,7 +17,7 @@ The whole journey resembled a lot what I went through when I created my color th
 ### Installation
 
 0. Uninstall the previous version if you have it installed.
-1. [Download](https://github.com/psudo-dev/psudofont-liga-mono/releases/download/v.2.1.0/psudoFont_Liga_Mono.zip) and Unzip the file.
+1. [Download](https://github.com/psudo-dev/psudofont-liga-mono/releases) and Unzip the file.
 2. Install the font:
     - Windows: Select all font files in the folder, right-click and click Install from the menu.
     - Mac: Select all font files in the folder and double-click them and Install.
